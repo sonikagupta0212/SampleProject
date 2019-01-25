@@ -1,0 +1,12 @@
+<suite name="Suite1" verbose="10">
+    <test name="Test1">
+        <classes>
+            <class name="TestNGClass">
+                <!--<methods>
+                    <include name="dd1" />
+                    <include name="dd2" />
+                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>

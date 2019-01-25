@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="46" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="46" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+      <class name="TestNGClass">
+        <test-method status="PASS" signature="dd1()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd1" duration-ms="6" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd1 -->
+        <test-method status="PASS" signature="dd2()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd2" duration-ms="0" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd2 -->
+        <test-method status="PASS" signature="dd4()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd4" duration-ms="1" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd4 -->
+        <test-method status="PASS" signature="dd3()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd3" duration-ms="0" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd3 -->
+        <test-method status="PASS" signature="dd5()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd5" duration-ms="0" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd5 -->
+      </class> <!-- TestNGClass -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
