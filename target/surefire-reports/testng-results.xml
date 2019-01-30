@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="46" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+  <suite name="Suite1" duration-ms="43987" started-at="2019-01-30T11:48:08 IST" finished-at="2019-01-30T11:48:52 IST">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="46" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+    <test name="Test1" duration-ms="43987" started-at="2019-01-30T11:48:08 IST" finished-at="2019-01-30T11:48:52 IST">
       <class name="TestNGClass">
-        <test-method status="PASS" signature="dd1()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd1" duration-ms="6" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+        <test-method status="PASS" signature="dd1()[pri:0, instance:TestNGClass@90f6bfd]" name="dd1" duration-ms="9470" started-at="2019-01-30T11:48:08 IST" finished-at="2019-01-30T11:48:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dd1 -->
-        <test-method status="PASS" signature="dd2()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd2" duration-ms="0" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+        <test-method status="PASS" signature="dd2()[pri:0, instance:TestNGClass@90f6bfd]" name="dd2" duration-ms="6038" started-at="2019-01-30T11:48:17 IST" finished-at="2019-01-30T11:48:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dd2 -->
-        <test-method status="PASS" signature="dd4()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd4" duration-ms="1" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dd4 -->
-        <test-method status="PASS" signature="dd3()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd3" duration-ms="0" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+        <test-method status="PASS" signature="dd3()[pri:0, instance:TestNGClass@90f6bfd]" name="dd3" duration-ms="3391" started-at="2019-01-30T11:48:23 IST" finished-at="2019-01-30T11:48:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dd3 -->
-        <test-method status="PASS" signature="dd5()[pri:0, instance:TestNGClass@3d8c7aca]" name="dd5" duration-ms="0" started-at="2019-01-18T11:24:00 IST" finished-at="2019-01-18T11:24:00 IST">
+        <test-method status="PASS" signature="dd4()[pri:0, instance:TestNGClass@90f6bfd]" name="dd4" duration-ms="3354" started-at="2019-01-30T11:48:27 IST" finished-at="2019-01-30T11:48:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd4 -->
+        <test-method status="PASS" signature="dd5()[pri:0, instance:TestNGClass@90f6bfd]" name="dd5" duration-ms="10930" started-at="2019-01-30T11:48:30 IST" finished-at="2019-01-30T11:48:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dd5 -->
+        <test-method status="PASS" signature="dd6()[pri:0, instance:TestNGClass@90f6bfd]" name="dd6" duration-ms="10762" started-at="2019-01-30T11:48:41 IST" finished-at="2019-01-30T11:48:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd6 -->
       </class> <!-- TestNGClass -->
     </test> <!-- Test1 -->
   </suite> <!-- Suite1 -->
